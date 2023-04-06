@@ -1,0 +1,52 @@
+@import "../vendor/bootstrap-main/scss/mixins/banner";
+@include bsBanner("");
+
+
+// scss/-docs-start import-stack
+// Configuration
+@import "../vendor/bootstrap-main/scss/functions";
+@import "../vendor/bootstrap-main/scss/variables";
+@import "../vendor/bootstrap-main/scss/variables-dark";
+@import "../vendor/bootstrap-main/scss/maps";
+@import "../vendor/bootstrap-main/scss/mixins";
+@import "../vendor/bootstrap-main/scss/utilities";
+
+// Layout & components
+@import "../vendor/bootstrap-main/scss/root";
+@import "../vendor/bootstrap-main/scss/reboot";
+@import "../vendor/bootstrap-main/scss/type";
+@import "../vendor/bootstrap-main/scss/images";
+@import "../vendor/bootstrap-main/scss/containers";
+@import "../vendor/bootstrap-main/scss/grid";
+// @import "../vendor/bootstrap-main/scss/tables";
+// @import "../vendor/bootstrap-main/scss/forms";
+// @import "../vendor/bootstrap-main/scss/buttons";
+// @import "../vendor/bootstrap-main/scss/transitions";
+// @import "../vendor/bootstrap-main/scss/dropdown";
+// @import "../vendor/bootstrap-main/scss/button-group";
+// @import "../vendor/bootstrap-main/scss/nav";
+// @import "../vendor/bootstrap-main/scss/navbar";
+// @import "../vendor/bootstrap-main/scss/card";
+// @import "../vendor/bootstrap-main/scss/accordion";
+// @import "../vendor/bootstrap-main/scss/breadcrumb";
+// @import "../vendor/bootstrap-main/scss/pagination";
+// @import "../vendor/bootstrap-main/scss/badge";
+// @import "../vendor/bootstrap-main/scss/alert";
+// @import "../vendor/bootstrap-main/scss/progress";
+// @import "../vendor/bootstrap-main/scss/list-group";
+// @import "../vendor/bootstrap-main/scss/close";
+// @import "../vendor/bootstrap-main/scss/toasts";
+// @import "../vendor/bootstrap-main/scss/modal";
+// @import "../vendor/bootstrap-main/scss/tooltip";
+// @import "../vendor/bootstrap-main/scss/popover";
+// @import "../vendor/bootstrap-main/scss/carousel";
+// @import "../vendor/bootstrap-main/scss/spinners";
+// @import "../vendor/bootstrap-main/scss/offcanvas";
+// @import "../vendor/bootstrap-main/scss/placeholders";
+
+// // Helpers
+// @import "../vendor/bootstrap-main/scss/helpers";
+
+// // Utilities
+// @import "../vendor/bootstrap-main/scss/utilities/api";
+// // scss/-docs-end import-stack
